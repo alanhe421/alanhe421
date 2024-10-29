@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@alanhe421-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/alanhe421)
 [![](https://img.shields.io/badge/-@alanhg-%23181717?style=flat-square&logo=github)](https://github.com/alanhg)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=1991421.cn&url=https%3A%2F%2Fxlbd.me)](https://1991421.cn)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falanhg)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falanhe421)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/1fcb745b-b90e-4660-9c2d-2ae97a8ba010.svg)](https://wakatime.com/@1fcb745b-b90e-4660-9c2d-2ae97a8ba010)
 
 ❤️ 创造/开发/英语/生活
@@ -35,6 +35,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Alan He's github stats](https://github-readme-stats.vercel.app/api?username=alanhg&show_icons=true&theme=dracula)
+![Alan He's github stats](https://github-readme-stats.vercel.app/api?username=alanhe421&show_icons=true&theme=dracula)
 
 <a href="https://www.buymeacoffee.com/alanhg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
