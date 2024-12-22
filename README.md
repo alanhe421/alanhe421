@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@alanhe421)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falanhe421)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/1fcb745b-b90e-4660-9c2d-2ae97a8ba010.svg)](https://wakatime.com/@1fcb745b-b90e-4660-9c2d-2ae97a8ba010)
-[![](https://img.shields.io/badge/-@机场推荐-%231DFFF2?style=flat-square&logo=shadowsocks&logoColor=ffffff)](https://portal.shadowsocks.au/aff.php?aff=27252)
+[![](https://img.shields.io/badge/@✈️机场推荐-8A2BE2?style=flat-square)](https://portal.shadowsocks.au/aff.php?aff=27252)
 
 
 ❤️ 创造/开发/英语/生活
