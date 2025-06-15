@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/-@Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/alanhe421)
 [![](https://img.shields.io/badge/-@GitHub-%23181717?style=flat-square&logo=github)](https://github.com/alanhe421)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=1991421.cn&url=https%3A%2F%2Fxlbd.me)](https://1991421.cn)
-[![](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@alanhe421)
 [![wakatime](https://wakatime.com/badge/user/1fcb745b-b90e-4660-9c2d-2ae97a8ba010.svg)](https://wakatime.com/@1fcb745b-b90e-4660-9c2d-2ae97a8ba010)
 
 
